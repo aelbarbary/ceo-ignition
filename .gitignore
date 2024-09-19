@@ -1,0 +1,8 @@
+api/main/.env
+api/main/settings/.env
+api/main/static/admin/
+api/main/static/rest_framework/
+*__pycache__*
+
+.vscode
+
